@@ -1,0 +1,21 @@
+h2
+{
+font-weight: bold;
+}
+
+span
+{
+color: red;
+}
+
+h3
+{
+font-size: 50px;
+font-weight: bold;
+color: red;
+}
+
+div:last-child a img
+{
+   display: none;
+}﻿
